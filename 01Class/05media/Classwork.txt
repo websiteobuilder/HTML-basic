@@ -1,0 +1,4 @@
+add a audio with auto play
+add 2 audios with control
+add a video with auto play
+add 2 videos with control
