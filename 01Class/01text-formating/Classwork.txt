@@ -1,1 +1,2 @@
-write a article 
+write a article.
+Make sure there is used all of formating eliments. 
