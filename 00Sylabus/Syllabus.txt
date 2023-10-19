@@ -1,0 +1,46 @@
+Web Disign & Development
+Basic
+Content-
+HTML-Basic
+Design-
+CSS-Basic
+Front-End Development
+Javascript-Basic
+Back-End Database
+SQL-Basic
+Back-End Development
+PHP-Basic
+Intermediate
+Content-
+HTML-Intermediate
+Design-
+CSS-Intermediate
+Front-End Development
+Javascript-Intermediate
+Back-End Database
+SQL-Intermediate
+Back-End Development
+PHP-Intermediate
+Framework & Libary
+Bootstrap
+Project-
+Email template design(10)
+Landing page making(10)
+jQuery
+Project-
+Single page website(10)
+Static page website (5)
+Laravel
+Project-
+Dinamic page website (5)
+Advanced
+SASS
+Advanced JavaScript
+ES6
+Node JS
+React
+AJAX
+Angular
+Mongo DB
+Phython
+etc
